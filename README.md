@@ -1,0 +1,1 @@
+# Patrones-de-dise-o-adaptativo-Tiny-Tweaks
